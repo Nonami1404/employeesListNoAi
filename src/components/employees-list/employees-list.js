@@ -1,5 +1,4 @@
 import EmployeesListItem from "../employees-list-item/employees-list-item";
-
 import './employees-list.css';
 
 const EmployeesList = ({data}) => {
